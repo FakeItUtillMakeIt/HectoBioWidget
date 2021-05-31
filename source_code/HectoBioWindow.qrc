@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="HectoBioWindow">
+    <file>res/hectobio1.png</file>
+    <file>res/DNA.png</file>
+    <file>res/wind.png</file>
+    <file>res/backgroud.png</file>
+    <file>res/hectobio.ico</file>
+  </qresource>
+</RCC>
